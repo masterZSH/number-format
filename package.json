@@ -1,0 +1,18 @@
+{
+  "name": "z-number-format",
+  "version": "1.0.0",
+  "description": "format number \u001b[D\u001b[",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "z-number-format",
+    "number-format"
+  ],
+  "author": "zsh",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
