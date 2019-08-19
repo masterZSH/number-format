@@ -21,6 +21,13 @@ numberFormat(123456);
 Output : 123,456
 
 ```js
+// format a float
+var numberFormat = require('z-number-format');
+numberFormat(123456.12345);
+```
+Output : 123,456.12345
+
+```js
 var numberFormat = require('z-number-format');
 numberFormat("123456");
 ```

@@ -1,6 +1,6 @@
 {
   "name": "z-number-format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "format number \u001b[D\u001b[",
   "main": "src/index.js",
   "scripts": {
