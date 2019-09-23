@@ -21,14 +21,21 @@ import numberFormat from 'z-number-format';
 var numberFormat = require('z-number-format');
 
 // cdn Available on unpkg or 74b
-<script src="https://unpkg.com/z-number-format@2.0.2/src/index.js"></script> 
+<script src="https://unpkg.com/z-number-format@2.0.3/src/index.js"></script> 
 
 <script src="https://74b.cc/js/zNumberFormat.js"></script> 
 ```
 
 ### typescript  
-suports
+Supports typescript
 
+
+### use it in website
+declare global function numberFormat
+```js
+<script src="https://74b.cc/js/zNumberFormat.js"></script> 
+numberFormat(123456)    
+```
 
 
 ### Examples
