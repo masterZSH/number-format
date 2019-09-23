@@ -27,6 +27,8 @@ var numberFormat = require('z-number-format');
 ```
 
 ### typescript  
+suports
+
 
 
 ### Examples
