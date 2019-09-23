@@ -23,7 +23,7 @@ import numberFormat from 'z-number-format';
 var numberFormat = require('z-number-format');
 
 // cdn Available on unpkg or 74b
-<script src="https://unpkg.com/z-number-format@1.1/src/index.js"></script> 
+<script src="https://unpkg.com/z-number-format@2.0.0/src/index.js"></script> 
 
 <script src="https://74b.cc/js/zNumberFormat.js"></script> 
 ```
