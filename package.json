@@ -1,6 +1,6 @@
 {
   "name": "z-number-format",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "format number \u001b[D\u001b[",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "keywords": [
     "z-number-format",
-    "number-format"
+    "number-format",
+    "numberFormat",
+    "zNumberFormat"
   ],
   "repository": {
     "url": "https://github.com/masterZSH/number-format",
