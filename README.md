@@ -1,6 +1,4 @@
-# z-number-format
-
-a number format package
+# z-number-format  [![Downloads](https://img.shields.io/npm/dm/z-number-format.svg)](https://www.npmjs.com/package/z-number-format)  [![Version](https://img.shields.io/npm/v/z-number-format.svg)](https://www.npmjs.com/package/z-number-format) [![License](https://img.shields.io/npm/l/z-number-format.svg)](https://www.npmjs.com/package/z-number-format)
 
 ### Install
 `npm install z-number-format --save`
